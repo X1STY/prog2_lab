@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\prog2\bin\Debug\prog2.exe.config
+C:\Users\PC\source\repos\prog2\bin\Debug\prog2.exe
+C:\Users\PC\source\repos\prog2\bin\Debug\prog2.pdb
+C:\Users\PC\source\repos\prog2\obj\Debug\MainWindow.g.cs
+C:\Users\PC\source\repos\prog2\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2_MarkupCompile.cache
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2_MarkupCompile.lref
+C:\Users\PC\source\repos\prog2\obj\Debug\MainWindow.baml
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2.g.resources
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2.Properties.Resources.resources
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2.exe
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2.pdb
+C:\Users\PC\source\repos\prog2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\source\repos\prog2\obj\Debug\prog2.csproj.AssemblyReference.cache
